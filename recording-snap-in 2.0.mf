@@ -1,0 +1,2 @@
+SHA1(recording-snap-in_2.0-disk1.vmdk)= ce242458d502866956db07dd06db79988652497f
+SHA1(recording-snap-in 2.0.ovf)= b5068f7abf2c1ad74dffe9e4b7ecc3333795fb9d
